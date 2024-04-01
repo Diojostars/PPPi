@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 80fef5e113d47cf4b8db9408ea3af902
+guid: 6b6e250feb0cc334a9720d361893408e
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -110,64 +110,22 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Slime_Sheet_0
+      name: 3747d3d9-bab1-464e-8863-3139f863710f (1) (1)_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.09}
+        width: 1174
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6f4743780e9f7934f9a9b1a9b7f67501
-      internalID: 1890342718
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Slime_Sheet_1
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 0
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.09}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f3e5ad54d212bd44790208f7039d96d1
-      internalID: -1894072595
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Slime_Sheet_2
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 0
-        width: 32
-        height: 32
-      alignment: 9
-      pivot: {x: 0.5, y: 0.09}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6a412a25f95123546bd462b22672c86f
-      internalID: -49521043
+      spriteID: 73e0bc590eb2c9b4d992f0db623aa034
+      internalID: -558549204
       vertices: []
       indices: 
       edges: []
@@ -183,9 +141,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Slime_Sheet_0: 1890342718
-      Slime_Sheet_1: -1894072595
-      Slime_Sheet_2: -49521043
+      3747d3d9-bab1-464e-8863-3139f863710f (1) (1)_0: -558549204
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
