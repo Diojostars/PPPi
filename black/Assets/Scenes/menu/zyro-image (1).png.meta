@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 1db395f9f11299d408a80748f49d6a43
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zyro-image (1)_0
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1967
+        width: 906
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a866dac0bc2a5b146ad451175c43bb6d
+      internalID: -1526279758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zyro-image (1)_1
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 1313
+        width: 1074
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4543d2b318e53458b6922dc0b33ce6
+      internalID: 1287853250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zyro-image (1)_2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1838
+        width: 901
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db4695de7289c94183f896a5de58ec1
+      internalID: 547831416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zyro-image (1)_3
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1442
+        width: 910
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a107e291471a62409951f55d725ea9b
+      internalID: -936516962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zyro-image (1)_4
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1310
+        width: 907
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c039c491aec1904e8f1450f9e63ce45
+      internalID: -993943361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zyro-image (1)_5
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1001
+        width: 704
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cac86c4c02bcee439444d99f3a9f9e6
+      internalID: -769099059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zyro-image (1)_6
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1001
+        width: 619
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0356abfbf1178eb4fb5453d1beba7d15
+      internalID: -197928185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zyro-image (1)_7
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 1001
+        width: 618
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c55d04a9e59e04c8e1fc2cb2df0096
+      internalID: 760722177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zyro-image (1)_8
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 711
+        width: 202
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4260cc8ad14301f4aa8d97d27f84ceda
+      internalID: 2095899876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zyro-image (1)_9
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 711
+        width: 199
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88eb0c5695d220a4cbc92538790e606a
+      internalID: -254279974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zyro-image (1)_10
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 711
+        width: 202
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be68985be8971b45ab49aa6065acf27
+      internalID: 976875573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zyro-image (1)_11
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 711
+        width: 199
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645ba4b9a7b45cf429bf4e60662c6eb3
+      internalID: 102303256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zyro-image (1)_12
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 711
+        width: 198
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06398c510f3895b4b8caa74445431f9f
+      internalID: -523305653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zyro-image (1)_13
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 711
+        width: 197
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef2ee116b2db44429b1e68a3bf0c680
+      internalID: -1395080519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zyro-image (1)_14
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 711
+        width: 197
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecaf69eee727d74dafa227842a5d924
+      internalID: 923883790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zyro-image (1)_15
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 711
+        width: 199
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50866e9879d087b4e88eaf10f7f57d5f
+      internalID: 2121454319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zyro-image (1)_16
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 711
+        width: 197
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f033d65a0e011843a687da37c93430f
+      internalID: 971773042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zyro-image (1)_17
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 422
+        width: 209
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6985de77d51d945a69cbc5aa6b8a40
+      internalID: -423494255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zyro-image (1)_18
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 422
+        width: 211
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c85b44129cd008489404134a58c3ea3
+      internalID: -186992342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zyro-image (1)_19
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 422
+        width: 207
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffd56d920cc8804dbd02d89a80a0c48
+      internalID: 450450806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zyro-image (1)_20
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 422
+        width: 211
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4bf8c1d2e62b24b8aa69dd9a55d8d7
+      internalID: -508185545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zyro-image (1)_21
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 422
+        width: 208
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bcc4776122965d4f90c60c5d2cbc791
+      internalID: 2073009466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zyro-image (1)_22
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 422
+        width: 209
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4726934454e914487f65048cc38234
+      internalID: 2129345193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zyro-image (1)_23
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 422
+        width: 209
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0b7d49770ffe64c8be8e421a33faea
+      internalID: -1379982095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zyro-image (1)_24
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 422
+        width: 209
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9ef95a8d91e614a88098046c6edccd
+      internalID: -1588885389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zyro-image (1)_25
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 422
+        width: 209
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3720c09b4cd09d49a786b1c4a0dc34f
+      internalID: -1752575368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zyro-image (1)_26
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 142
+        width: 235
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd502a96ae1ebde4e990227cee47bff3
+      internalID: -154059141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zyro-image (1)_27
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 142
+        width: 235
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1718f123e9220489305bd4994eb07b
+      internalID: 1025548995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zyro-image (1)_28
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 133
+        width: 180
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72842810b4c01ad46b6acaee5c037966
+      internalID: 307455947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zyro-image (1)_29
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 133
+        width: 187
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89fb44d6a86dc44dbac743a6e7f7310
+      internalID: -1824920653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zyro-image (1)_30
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 147
+        width: 178
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0c6a2d559d9ab46905b689fa73a4ff
+      internalID: 641554780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zyro-image (1)_31
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 154
+        width: 180
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afd4be94d7c8eb41abf9f1fdc507c09
+      internalID: -2116542825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zyro-image (1)_32
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 143
+        width: 659
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30573ec9efb14a94c8e964f5b7cd5413
+      internalID: -682777074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zyro-image (1)_33
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1712
+        width: 930
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bdd20c9d2186644a5eba0fd9b8de27
+      internalID: 595173507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zyro-image (1)_34
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1574
+        width: 919
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c84c53e8f98c64784ed32efedbb89a
+      internalID: -1810949685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      zyro-image (1)_0: -1526279758
+      zyro-image (1)_1: 1287853250
+      zyro-image (1)_10: 976875573
+      zyro-image (1)_11: 102303256
+      zyro-image (1)_12: -523305653
+      zyro-image (1)_13: -1395080519
+      zyro-image (1)_14: 923883790
+      zyro-image (1)_15: 2121454319
+      zyro-image (1)_16: 971773042
+      zyro-image (1)_17: -423494255
+      zyro-image (1)_18: -186992342
+      zyro-image (1)_19: 450450806
+      zyro-image (1)_2: 547831416
+      zyro-image (1)_20: -508185545
+      zyro-image (1)_21: 2073009466
+      zyro-image (1)_22: 2129345193
+      zyro-image (1)_23: -1379982095
+      zyro-image (1)_24: -1588885389
+      zyro-image (1)_25: -1752575368
+      zyro-image (1)_26: -154059141
+      zyro-image (1)_27: 1025548995
+      zyro-image (1)_28: 307455947
+      zyro-image (1)_29: -1824920653
+      zyro-image (1)_3: -936516962
+      zyro-image (1)_30: 641554780
+      zyro-image (1)_31: -2116542825
+      zyro-image (1)_32: -682777074
+      zyro-image (1)_33: 595173507
+      zyro-image (1)_34: -1810949685
+      zyro-image (1)_4: -993943361
+      zyro-image (1)_5: -769099059
+      zyro-image (1)_6: -197928185
+      zyro-image (1)_7: 760722177
+      zyro-image (1)_8: 2095899876
+      zyro-image (1)_9: -254279974
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
